@@ -20,5 +20,4 @@ jobs:
     # Standard usage
     - uses:  helaili/jekyll-action@v2
       with:
-        build_only: true
-        # token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.DEPLOY_PAGES_TOKEN }}
