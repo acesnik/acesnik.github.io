@@ -25,14 +25,42 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://acesnik.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AnthonyCesnik
 github_username:  acesnik
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+minimal_mistakes_skin: dirt
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+author:
+  name: Anthony Cesnik
+  avatar: /assets/images/ajc_headshot.jpg
+  bio: "Proteoform Systems Biology"
+  location: "Stanford, CA, USA"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://acesnik.github.io"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/AnthonyCesnik"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/acesnik"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/anthonycesnik/"
+  # - label: "Instagram"
+  #   icon: "fab fa-fw fa-instagram"
+  #   url: "https://instagram.com/mmistakes"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
