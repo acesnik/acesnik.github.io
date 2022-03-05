@@ -1,11 +1,11 @@
 main:
   - title: "About Me"
-    url: /docs/about-me/
+    url: /docs/about-me
   - title: "Research"
-    url: /research/
+    url: /research
   - title: "Publications"
-    url: /docs/publications/
+    url: /docs/publications
   - title: "Teaching"
-    url: /docs/teaching/
+    url: /docs/teaching
   - title: "Service & Outreach"
-    url: /docs/service/
+    url: /docs/service

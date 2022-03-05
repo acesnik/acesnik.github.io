@@ -9,4 +9,4 @@ header:
 author_profile: true
 ---
 
-Some descriptions here
+Description coming soon.
