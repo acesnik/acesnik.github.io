@@ -9,14 +9,15 @@ categories: jekyll update
 author_profile: true
 ---
 
-Overview
-* Total peer-reviewed publications: 22, in review: 1
-* Total citations: 480
+## Overview
+* Total peer-reviewed publications: 22
+* Total publications in review: 1
+* Total citations: 484
 * h-index: 13
 * [Updated publication list and metrics](https://scholar.google.com/citations?user=VdTXdL0AAAAJ)
+* Published in _Nature_ and _Science_ as co-first and contributing author, respectively
 
-First Author Publications:
-
+## First Author Publications
 (1)	Mahdessian, D.\*; **Cesnik, A. J.\***; Gnann, C.; Danielsson, F.; Stenström, L.; Arif, M.; Zhang, C.; Le, T.; Johansson, F.; Shutten, R.; Bäckström, A.; Axelsson, U.; Thul, P.; Cho, N. H.; Carja, O.; Uhlén, M.; Mardinoglu, A.; Stadler, C.; Lindskog, C.; Ayoglu, B.; Leonetti, M. D.; Pontén, F.; Sullivan, D. P.; Lundberg, E. “Spatiotemporal dissection of the cell cycle with single­cell proteogenomics.” Nature 2021, 590, 649–654. **\*Contributed equally**
 
 (2)	Gnann, C.\*; **Cesnik, A. J.\***; Lundberg, E. “Illuminating non­genetic cellular heterogeneity with spatial proteomics.” Trends in Cancer 2021, 7, 4, 278–282. **\*Contributed equally**
@@ -31,8 +32,7 @@ First Author Publications:
 
 (7)	**Cesnik, A. J.**; Shortreed, M. R.; Sheynkman, G. M.; Frey, B. L.; Smith, L. M. “Human Proteomic Variation Revealed by Combining RNA­Seq Proteogenomics and Global Post­Translational Modification (G­PTM) Search Strategy.” Journal of Proteome Research 2016, 15, 3, 800–808. **\*\*American Chemical Society Editor’s Choice**
 
-Contributing Author Publications:
-
+## Contributing Author Publications
 (8)	Melani, R. D.\*; Gerbasi, V. R.\*; Anderson, L. C.\*; Sikora, J. W.; Toby, T. K.; Hutton, J. E.; Butcher, D. S.; Negrão, F.; Seckler, H. S.; Srzentić, K.; Fornelli, L; Camarillo, J. M.; LeDuc, R. D.; **Cesnik, A. J.**; Lundberg, E., Greer, J. B.; Fellers, R. T.; Robey, M. T.; DeHart, C. J.; Forte, E.; Hendrickson, C. L.; Abbatiello, S. E.; Thomas, P. M.; Kokaji, A. I.; Levitsky, J.; Kelleher, N. L. “The Blood Proteoform Atlas: A compositional map of proteoforms in human haematopoietic cells.” Science 2022, 375, 6579, 411–418. \*Contributed equally
 
 (9)	Carr, A. V.; Frey, B. L.; Scalf, M.; **Cesnik, A. J.**; Rolfs, Z.; Pike, K. A.; Yang, B.; Jarrard, D. F.; Shortreed, M. R.; Smith, L. M. “MetaNetwork Enhances Biological Insights from Quantitative Proteomics Differences by Combining Clustering and Enrichment Analyses.” Journal of Proteome Research 2022, 21, 2, 410–419.
@@ -63,6 +63,5 @@ Contributing Author Publications:
 
 (22)	Papa, C. M.; **Cesnik, A. J.**; Evans, T. C.; Choi, K. S. “Electrochemical Synthesis of Binary and Ternary Niobium­Containing Oxide Electrodes Using the p­Benzoquinone/Hydroquinone Redox Couple.” Langmuir 2015, 31, 34, 9502–9510.
 
-Manuscripts in Review:
-
+## Manuscripts in Review
 (23)	LeDuc, R. D.; Deutsch, E. W.; Binz, P. A.; Fellers, R. T.; **Cesnik, A. J.**; Klein, J. A.; Van Den Bossche, T.; Gabriels, R.; Yalavarthi, A.; Perez­Riverol, Y.; Carver, J.; Bittremieux, W.; Kawano, S.; Pullman, B.; Bandeira, N.; Kelleher, N. L.; Thomas, P. M.; Vizcaíno, J. A. “Proteomics Standards Initiative’s ProForma 2.0: Unifying the encoding of Proteoforms and Peptidoforms.” Submitted.
