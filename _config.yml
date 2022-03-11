@@ -68,6 +68,7 @@ author:
   #   icon: "fab fa-fw fa-instagram"
   #   url: "https://instagram.com/mmistakes"
 
+# Collection
 collections:
   research:
     output: true

@@ -4,7 +4,7 @@ title:  "About Me"
 date:   2022-03-03 13:32:35 -0800
 categories: jekyll update
 header:
-  image: /assets/images/ajc_headshot.jpg
+  # image: /assets/images/ajc_headshot.jpg
   teaser: /assets/images/ajc_headshot.jpg
 author_profile: true
 
