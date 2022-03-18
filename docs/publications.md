@@ -11,7 +11,6 @@ author_profile: true
 
 ## Overview
 * Total peer-reviewed publications: 23
-[comment]: <> (* Total publications in review: 0)
 * Total citations: 499
 * h-index: 13
 * [Updated publication list and metrics](https://scholar.google.com/citations?user=VdTXdL0AAAAJ)
