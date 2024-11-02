@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Future Research
 layout: collection
 permalink: /future-research/
 collection: future-research

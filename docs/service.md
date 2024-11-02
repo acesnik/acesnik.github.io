@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Service & Outreach"
+title:  "Diversity & Service"
 date:   2022-03-04 15:00 -0800
 categories: jekyll update
 # header:
@@ -8,6 +8,11 @@ categories: jekyll update
 #   teaser: /assets/images/ProteoformFamilyCoverConcept_splash.jpg
 author_profile: true
 ---
+
+
+I ground my ongoing efforts to promote departmental and institutional diversity, equity, and inclusion in creating a sense of belonging. I believe facilitating belonging to university departments and fields of study can serve as the foundation for deeper efforts to improve diversity, equity, and inclusion. Towards this end, I created the Bioengineering Postdoc Chalk Talk series at Stanford over the last two years, aiming to build connections within the diverse bioengineering postdoc community and build an understanding of how to construct and deliver an impactful chalk talk. The first two events held this year were attended by around 20 postdocs and one member of the faculty per session, followed by a mixer, ”BioE Beer, Boba, and Bites.” I have been humbled by feedback that this series is making a positive impact and facilitating practice for one of the most difficult parts of job searches, the chalk talk. Creating a space for practice chalk talks also aims to lower systemic barriers to training for job searches, engaging, and excelling in academia. At Stanford Bioengineering, I have also represented postdocs on departmental committees for alumni relations and justice, equity, diversity, and inclusion (JEDI) to help identify opportunities to build a sense of belonging and alumnihood for postdocs. For these contributions, I received the institution­wide Stanford Postdoc JEDI Champion Award this year for advancing justice, equity, diversity, and inclusion at Stanford.
+
+![chalktalk](/assets/images/bioe-postdoc-chalktalk-square.png)
 
 ## Service and outreach activities
 * _Visiting Lecturer_, Stuart Hall Middle School, San Francisco, CA, USA, Apr 2023.

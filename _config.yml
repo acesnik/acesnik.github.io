@@ -59,7 +59,7 @@ author:
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/anthonycesnik/"
   - label: "Google Scholar"
-    icon: "fab fa fa-graduation-cap"
+    icon: "fab fa fa-google-scholar"
     url: "https://scholar.google.com/citations?user=VdTXdL0AAAAJ"
   - label: "ORCID"
     icon: fab fa fa-orcid
@@ -74,6 +74,9 @@ author:
 # Collection
 collections:
   research:
+    output: true
+    permalink: /:collection/:path/
+  future-research:
     output: true
     permalink: /:collection/:path/
 

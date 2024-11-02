@@ -15,9 +15,11 @@ author_profile: true
 * Total citations: 1148
 * h-index: 17
 * [Updated publication list and metrics](https://scholar.google.com/citations?user=VdTXdL0AAAAJ)
-* Published in _Nature_ and _Science_ as co-first and contributing author, respectively
+* Published in _Nature_ (lead author) and _Science_ (coauthor)
 
-## First Author & Co-First Author Publications
+![wordcloud](/assets/images/wordcloud2.png)
+
+## Lead Author Publications
 (1) **Cesnik, A.\*;** Schaffer, L. V.\*; Gaur, I.; Jain, M.; Ideker, T.; Lundberg, E. “Mapping the Multiscale Proteomic Organization of Cellular and Disease Phenotypes.” Annual Review of Biomedical Data Science 2024 27, 369­389. **\*Contributed equally**
 
 (2) Mahdessian, D.\*; **Cesnik, A. J.\***; Gnann, C.; Danielsson, F.; Stenström, L.; Arif, M.; Zhang, C.; Le, T.; Johansson, F.; Shutten, R.; Bäckström, A.; Axelsson, U.; Thul, P.; Cho, N. H.; Carja, O.; Uhlén, M.; Mardinoglu, A.; Stadler, C.; Lindskog, C.; Ayoglu, B.; Leonetti, M. D.; Pontén, F.; Sullivan, D. P.; Lundberg, E. “Spatiotemporal dissection of the cell cycle with single­cell proteogenomics.” Nature 2021, 590, 649–654. **\*Contributed equally**

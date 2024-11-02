@@ -1,11 +1,13 @@
 main:
   - title: "About Me"
     url: /docs/about-me
+  - title: "Future Research"
+    url: /future-research
   - title: "Research"
     url: /research
   - title: "Publications"
     url: /docs/publications
   - title: "Teaching"
     url: /docs/teaching
-  - title: "Service & Outreach"
+  - title: "Diversity & Service"
     url: /docs/service

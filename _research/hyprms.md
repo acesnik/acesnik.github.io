@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "V. Validated new techniques for hybridization capture analysis of RNA- and DNA-binding proteins"
-date:   2022-03-17 19:06 -0800
+title:  "VI. Validated new techniques for hybridization capture analysis of RNA- and DNA-binding proteins"
+date:   2022-03-17 19:07 -0800
 categories: jekyll update
 # header:
   # image: /assets/images/Spritz-01.png
