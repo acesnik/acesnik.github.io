@@ -5,9 +5,9 @@ header:
   teaser: /assets/images/ProteoformFamilyCoverConcept_thinsplash.jpg
 author_profile: true
 feature_row:
-  - image_path: /assets/images/ajc_headshot.jpg
-    alt: "Picture of me at Stockholm City Hall, Stockholm, Sweden, Nov 2019."
-    description: "Picture of me at Stockholm City Hall, Stockholm, Sweden, Nov 2019."
+  - image_path: /assets/images/PXL_20221030_012018483~6.jpg
+    alt: "Picture of me in Monterey, CA, Oct 2022."
+    description: "Picture of me in Monterey, CA, Oct 2022."
     title: "About Me"
     excerpt: "Who I am and what I do."
     url: /docs/about-me
