@@ -9,7 +9,19 @@ categories: jekyll update
 author_profile: true
 ---
 
+## Teaching Training
+_Postdoctoral Teaching Certificate_, Stanford University, Stanford, CA, USA 2022 – 2023 • Completed 100 hours of core teaching training, journal clubs for pedagogy research, and teaching practice.
+GradCDI, Stanford University, Stanford, CA, USA 2023
+  * Week­long course design bootcamp titled, “Course Design Institute for Graduate Students and Postdoctoral Scholars.” 
+  * Began designing graduate-­level course titled, “Deciphering protein variation with proteogenomics.”
+_edX: Advancing Learning Through Evidence-­Based STEM Teaching_, CIRTL, UW­-Madison 2023
+  * Month­long online pedagogy course focused on teaching­as research, learning communities, and learning through diversity. **Completed with distinction.**
+
 ## Teaching experience
+_Invited Instructor_, KTH Royal Institute of Technology, Stockholm, Sweden, 2022
+  * Taught a weeklong course section remotely on single­cell proteogenomic data analysis, including recorded lecture,
+computer lab, and journal club components, ∼25 hours.
+
 _Teaching Assistant_, Chemistry Department, University of Wisconsin-Madison, 2012 – 2014.
   * Analytical Chemistry for Engineering & Chemistry Students, approx. 20 hours/week, Spring 2014.
   * Electrochemistry, approx. 20 hours/week, Fall 2013.

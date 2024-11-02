@@ -15,6 +15,13 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/ProteoformFamilyCoverConcept_square.jpg
     alt: "Conceptual image of proteoform families."
+    title: "Future Research"
+    excerpt: "My future research."
+    url: /future-research
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/ProteoformFamilyCoverConcept_square.jpg
+    alt: "Conceptual image of proteoform families."
     title: "Research"
     excerpt: "My contributions to science and current research."
     url: /research

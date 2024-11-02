@@ -10,6 +10,8 @@ author_profile: true
 ---
 
 ## Service and outreach activities
+* _Visiting Lecturer_, Stuart Hall Middle School, San Francisco, CA, USA, Apr 2023.
+  * Presented to five middle school science classes on protein science, systems biology, and the life of a PhD researcher.
 * _Visiting Lecturer_, Stuart Hall Middle School, San Francisco, CA, USA, Mar 2020.
   * Presented to four middle school science classes on cell biology concepts, protein science, and summarized the life of a PhD researcher.
 * _Coding Development Assistant_, Chan Zuckerberg Biohub, San Francisco, CA, USA, Sept 2019.
