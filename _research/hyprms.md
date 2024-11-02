@@ -14,5 +14,7 @@ Ensembles of proteins bind RNA and DNA and have typically been profiled by immun
 
 ## Research papers
 (1) Spiniello, M.; Knoener, R. A.; Steinbrink, M. I.; Yang, B.; **Cesnik, A. J.**; Buxton, K. E.; Scalf, M.; Jarrard, D. F.; Smith, L. M. “HyPR­-MS for multiplexed discovery of the MALAT1, NEAT1, and NORAD lncRNA protein interactomes.” Journal of Proteome Research 2018, 17, 9, 3022–3038.
+
 (2) Spiniello, M.; Steinbrink, M. I.; **Cesnik, A. J.**; Miller, R. M.; Scalf, M.; Shortreed, M. R.; Smith, L. M. “Comprehensive in vivo identification of the c­-Myc mRNA protein interactome using HyPR­-MS.” RNA 2019, 25, 1337–1352.
+
 (3) Guillen-­Ahlers, H.; Rao, P. K.; Levenstein, M. E.; Kennedy-­Darling, J.; Perumalla, D. S.; Jadhav, A. Y. L.; Glenn, J. P.; Ludwig-­Kubinski, A.; Drigalenko, E.; Montoya, M. J.; Göring, H. H.; Anderson, C. D.; Scalf, M.; Gildersleeve, H. I.S.; Cole, R.; Greene, A. M. Oduro, A. K.; Lazarova, K.; **Cesnik, A. J.**; Barfknecht, J.; Cirillo, L. A.; Gasch, A. P.; Shortreed, M. R.; Smith, L. M.; Olivier, M. “HyCCAPP as a tool to characterize promoter DNA-­protein interactions in Saccharomyces cerevisiae.” Genomics 2016, 107, 6, 267–273.

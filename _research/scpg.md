@@ -5,11 +5,13 @@ date:   2022-03-17 19:02 -0800
 categories: jekyll update
 header:
   # image: /assets/images/Spritz-01.png
-  teaser: /assets/images/cell-cycle.png
+  teaser: /assets/images/cell-cycle-square.png
 author_profile: true
 ---
 
 The cell cycle is driven by precise regulation of proteins in time and space, which also causes cell-to-cell heterogeneity. To study this heterogeneity in context of the human cell cycle, I integrated single-cell imaging proteomic data that has subcellular resolution and temporal resolution within the cell cycle with scRNA-Seq data to reveal hundreds of new CCD proteins, and I showed that a large majority of these new CCD proteins are not regulated by transcript cycling. I published this study as a co-first author in the journal Nature, and have contributed similar integrative analysis with other studies, including analyzing relative protein abundance in context of nucleolar protein expression. These results have provided fundamental insights and a resource to accelerate studies of the human cell cycle, cellular proliferation, and the function of the nucleolus and other organelles.
+
+![cellcycle](/assets/images/cell-cycle-square.png)
 
 ## Research papers
 (1) Mahdessian, D.*; **Cesnik, A. J.\***; Gnann, C.; Danielsson, F.; Stenström, L.; Arif, M.; Zhang, C.; Le, T.; Johansson, F.; Shutten, R.; Bäckström, A.; Axelsson, U.; Thul, P.; Cho, N. H.; Carja, O.; Uhlén, M.; Mardinoglu, A.; Stadler, C.; Lindskog, C.; Ayoglu, B.; Leonetti, M. D.; Pontén, F.; Sullivan, D. P.; Lundberg, E. “Spatiotemporal dissection of the cell cycle with single-­cell proteogenomics.” Nature 2021, 590, 649–654. **\*Contributed equally**
