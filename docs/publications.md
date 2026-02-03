@@ -11,9 +11,9 @@ author_profile: true
 
 ## Overview
 * Total peer-reviewed publications: 26
-* Total preprints: 2
-* Total citations: 1289
-* h-index: 19
+* Total preprints: 3
+* Total citations: 1520
+* h-index: 20 
 * [Updated publication list and metrics](https://scholar.google.com/citations?user=VdTXdL0AAAAJ)
 * Published in _Nature_ (lead author, 2021) and _Science_ (coauthor, 2022)
 
@@ -43,15 +43,13 @@ bioRxiv 2026, 2026.01.30.702970.
 ## Contributing Author Publications
 (10) Schaffer, L. V.; Hu, M.; Qian, G.; Moon, K. M.; Pal, A.; Soni, N.; Latham, A. P.; Vaites, L. P.; Tsai, D.; Mattson, N. M.; Licon, L.; Bachelder, R.; **Cesnik, A.**; Gaur, I.; Le, T.; Leineweber, W.; Palar, A.; Pulido, E.; Qin, Y.; Zhao, X.; Churas, C.; Lenkiewicz, J.; Chen, J.; Ono, K.; Pratt, D.; Zage, P.; Echeverria, I.; Sali, A.; Harper, J. W.; Gygi, S. P.; Foster, L. J.; Huttlin, E. L.; Lundberg, E.; Ideker, T. Multimodal cell maps as a foundation for structural and functional genomics. Nature (2025). https://doi.org/10.1038/s41586-025-08878-3
 
-(11) Gupta, A.; Wefers, Z.; Kahnert, K.; Hansen, J. N.; Leineweber, W.; **Cesnik, A.;** Lu, D.; Axelsson, U.; Navarro, F. B.;
-Karaletsos, T.; Lundberg, E. “SubCell: Vision foundation models for microscopy capture single­cell biology” bioRxiv
-2024, 2024.12.06.627299.
+(11) Gupta, A.; Wefers, Z.; Kahnert, K.; Hansen, J. N.; Leineweber, W.; **Cesnik, A.;** Lu, D.; Axelsson, U.; Navarro, F. B.; Karaletsos, T.; Lundberg, E. “SubCell: Vision foundation models for microscopy capture single­cell biology” bioRxiv 2024, 2024.12.06.627299.
 
-(12) Gnann, C.; **Cesnik, A.;** Sigaeva, A.; Le, T.; Sariyar, S.; Mahdessian, D.; Schutten, R.; Raghavan, P.; Leonetti, M. D.; Lindskog, C.; Uhlén, M.; Axelsson, U.; Lundberg, E. “Dissecting autonomous enzyme variability in single cells” bioRxiv 2024, 2024.10.03.616530.
+(12) Gnann, C.; Sigaeva, A.; Le, T.; **Cesnik, A.;** Sariyar, S.; Mahdessian, D.; Schutten, R.; Raghavan, P.; Leonetti, M. D.; Lindskog, C.; Uhlén, M.; Axelsson, U.; Lundberg, E. “Dissecting autonomous enzyme variability in single cells” bioRxiv 2024, 2024.10.03.616530.
 
 (13) Mah,C.K.\*; Ahmed,N.\*; Lopez,N.A.; Lam,D.C.; Pong,A.; Monell,A.; Kern,C.; Han,Y.; Prasad,G.; **Cesnik,A.J.;** Lundberg, E.; Zhu, Q.; Carter, H.; Yeo, G. W. “Bento: a toolkit for subcellular analysis of spatial transcriptomics data” Genome Biology 2024, 25, 82, 1–25.
 
-(14) LeDuc, R. D.; Deutsch, E. W.; Binz, P. A.; Fellers, R. T.; **Cesnik, A. J.**; Klein, J. A.; Van Den Bossche, T.; Gabriels, R.; Yalavarthi, A.; Perez-­Riverol, Y.; Carver, J.; Bittremieux, W.; Kawano, S.; Pullman, B.; Bandeira, N.; Kelleher, N. L.; Thomas, P. M.; Vizcaíno, J. A. “Proteomics Standards Initiative’s ProForma 2.0: Unifying the encoding of Proteoforms and Peptidoforms.” Journal of Proteome Research 2022, in press.
+(14) LeDuc, R. D.; Deutsch, E. W.; Binz, P. A.; Fellers, R. T.; **Cesnik, A. J.**; Klein, J. A.; Van Den Bossche, T.; Gabriels, R.; Yalavarthi, A.; Perez-­Riverol, Y.; Carver, J.; Bittremieux, W.; Kawano, S.; Pullman, B.; Bandeira, N.; Kelleher, N. L.; Thomas, P. M.; Vizcaíno, J. A. “Proteomics Standards Initiative’s ProForma 2.0: Unifying the encoding of Proteoforms and Peptidoforms.” Journal of Proteome Research 2022, 21, 4, 1189-1195.
 
 (15) Melani, R. D.\*; Gerbasi, V. R.\*; Anderson, L. C.\*; Sikora, J. W.; Toby, T. K.; Hutton, J. E.; Butcher, D. S.; Negrão, F.; Seckler, H. S.; Srzentić, K.; Fornelli, L; Camarillo, J. M.; LeDuc, R. D.; **Cesnik, A. J.**; Lundberg, E., Greer, J. B.; Fellers, R. T.; Robey, M. T.; DeHart, C. J.; Forte, E.; Hendrickson, C. L.; Abbatiello, S. E.; Thomas, P. M.; Kokaji, A. I.; Levitsky, J.; Kelleher, N. L. “The Blood Proteoform Atlas: A compositional map of proteoforms in human haematopoietic cells.” Science 2022, 375, 6579, 411–418. \*Contributed equally
 
