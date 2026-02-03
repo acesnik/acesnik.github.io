@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "IV. ProForma: a standardized notation for writing proteoform sequences"
+title:  "V. ProForma: a standardized notation for writing proteoform sequences"
 date:   2022-03-17 19:05 -0800
 categories: jekyll update
 header:

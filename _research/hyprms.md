@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "VI. Validated new techniques for hybridization capture analysis of RNA- and DNA-binding proteins"
+title:  "VII. Validated new techniques for hybridization capture analysis of RNA- and DNA-binding proteins"
 date:   2022-03-17 19:07 -0800
 categories: jekyll update
 # header:

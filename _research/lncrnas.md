@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "V. Discovered lncRNAs that differentiate aggressive and indolent prostate cancers"
+title:  "VI. Discovered lncRNAs that differentiate aggressive and indolent prostate cancers"
 date:   2022-03-17 19:06 -0800
 categories: jekyll update
 # header:
