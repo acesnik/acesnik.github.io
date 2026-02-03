@@ -14,8 +14,8 @@ author_profile: true
 * Total preprints: 3
 * Total citations: 1520
 * h-index: 20 
-* [Updated publication list and metrics](https://scholar.google.com/citations?user=VdTXdL0AAAAJ)
-* Published in _Nature_ (lead author, 2021) and _Science_ (coauthor, 2022)
+* [Publication list and metrics](https://scholar.google.com/citations?user=VdTXdL0AAAAJ)
+* Including _Nature_ (lead author, 2021) and _Science_ (coauthor, 2022)
 
 ![wordcloud](/assets/images/wordcloud2.png)
 
