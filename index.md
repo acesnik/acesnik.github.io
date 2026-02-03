@@ -40,8 +40,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/bioe-postdoc-chalktalk-square.png
-    title: "Diversity & Service"
-    excerpt: "My efforts in service, outreach, and fostering diversity."
+    title: "Service"
+    excerpt: "My efforts in service and outreach."
     url: /docs/service
     btn_label: "Read More"
     btn_class: "btn--inverse"
