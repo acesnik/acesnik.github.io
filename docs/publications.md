@@ -20,9 +20,7 @@ author_profile: true
 ![wordcloud](/assets/images/wordcloud2.png)
 
 ## Lead Author Publications
-(1) **Cesnik, A.†**; Takacsi-Nagy, O.; Roth, T. L.; Le, T.; Satpathy, A. T.; Lundberg, E.† ``Molecular pixelation of the CAR T cell surface proteome.''
-bioRxiv 2026, 2026.01.30.702970.
-**†Co-corresponding** https://doi.org/10.64898/2026.01.30.702970
+(1) **Cesnik, A.†**; Takacsi-Nagy, O.; Roth, T. L.; Le, T.; Satpathy, A. T.; Lundberg, E.† ``Molecular pixelation of the CAR T cell surface proteome.'' bioRxiv 2026, 2026.01.30.702970. **†Co-corresponding** https://doi.org/10.64898/2026.01.30.702970
 
 (2) **Cesnik, A.\*;** Schaffer, L. V.\*; Gaur, I.; Jain, M.; Ideker, T.; Lundberg, E. “Mapping the Multiscale Proteomic Organization of Cellular and Disease Phenotypes.” Annual Review of Biomedical Data Science 2024 27, 369­389. **\*Contributed equally**
 
