@@ -49,6 +49,9 @@ author:
   bio: "Proteoform Spatial Biology"
   location: "Chicago, IL, USA"
   links:
+  - label: "Biohub Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://biohub.org/proteoform-spatial-biology/"
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/anthonycesnik/"
@@ -64,9 +67,6 @@ author:
   - label: "ORCID"
     icon: fab fa fa-orcid
     url: "https://orcid.org/0000-0002-5326-7134"
-  - label: "Website"
-    icon: "fas fa-fw fa-link"
-    url: "https://acesnik.github.io"
   # - label: "Instagram"
   #   icon: "fab fa-fw fa-instagram"
   #   url: "https://instagram.com/mmistakes"
